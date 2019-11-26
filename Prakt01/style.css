@@ -1,0 +1,138 @@
+table{
+    border-collapse: collapse;
+}
+tr{
+}
+.table{
+    width: 70px;
+    border: 2px solid grey;
+}
+.bigger-width{
+    width: 300px;
+}
+.lesser-width{
+    width: 90px;
+}
+.middle-width{
+    width: 210px;
+}
+
+
+.pic-table-width1{
+    width: 100px;
+}
+.pic-table-width2{
+    width: 40px;
+}
+.pic-table-width3{
+    width: 60px;
+}
+.pic-table-width1_1{
+    width: 10px;
+}
+.external-frame{
+    border: 2px solid grey;
+}
+.spec-table{
+    border-collapse: separate;
+}
+
+.align-center{
+    text-align: center;
+}
+.bold-text{
+    font-weight: bold;
+}
+
+.red{
+    background: red;
+}
+.yellow{
+    background: yellow;
+}
+.darkblue{
+    background: darkblue;
+}
+.orange-font{
+    color: orange;
+}
+.white-font{
+    color: white;
+}
+.bisque{
+    background: bisque;
+}
+.darkgreen{
+    background: darkgreen;
+}
+.goldenrod-font{
+    color: goldenrod;
+}
+.goldenrod{
+    background: goldenrod;
+}
+.lightblue{
+    background: lightblue;
+}
+.purple{
+    background: #510e89;
+}
+.rebeccapurple{
+    background: mediumpurple;
+}
+.font{
+    font-family: Bahnschrift;
+}
+.table-header{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.table-bold-uppercase{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.table-uppercase{
+    text-transform: uppercase;
+}
+.width-300{
+    width: 300px;
+}
+.height-50{
+    height: 50px;
+}
+.margin-auto{
+    margin: auto;
+}
+.middle-font{
+    font-size: 14px;
+}
+.large-font{
+    font-size: 20px;
+}
+.height-200{
+    height: 200px;
+}
+.height-100{
+    height: 100px;
+}
+.width-200{
+    width: 200px;
+}
+.width-50{
+    width: 50px;
+}
+.width-100{
+    width: 100px;
+}
+.darkred-frame{
+    border: 2px;
+    border-color: darkred;
+    border-style: solid;
+}
+.black-frame{
+    border: 1px solid black;
+}
+.silver{
+    background: antiquewhite;
+}
